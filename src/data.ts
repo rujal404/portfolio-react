@@ -110,14 +110,14 @@ export const EDUCATION_DATA: EducationItem[] = [
 export const SKILL_ITEMS: SkillItem[] = [
   { id: "sk1", name: "UI/UX Design", category: "design", iconName: "draw", proficiency: 90 },
   { id: "sk2", name: "Frontend Dev", category: "dev", iconName: "code", proficiency: 85 },
-  { id: "sk2", name: "Backend Dev", category: "dev", iconName: "code", proficiency: 50 },
+  { id: "sk2", name: "Backend Dev", category: "dev", iconName: "code", proficiency: 35 },
   { id: "sk3", name: "User Research", category: "research", iconName: "psychology", proficiency: 85 },
   { id: "sk4", name: "Design Systems", category: "systems", iconName: "layers", proficiency: 85 },
   { id: "sk5", name: "Web Content Creation", category: "web", iconName: "notebookpen", proficiency: 95 },
 ];
 
 export const ALL_SKILLS_BADGES = [
-  "Figma", "HTML", "CSS", "Bootstrap", "React.js", "TypeScript", "Tailwind CSS", "PHP", "MYSQL", "Git", "Webflow", "AWS", "Adobe Suite", "Typeform", "Prototyping", "SEO Strategy", "Web Content"
+  "Figma", "HTML", "CSS", "Bootstrap", "React.js", "TypeScript", "Tailwind CSS", "PHP", "MYSQL", "C++", "Git", "Webflow", "AWS", "Adobe Suite", "Typeform", "Prototyping", "SEO Strategy", "Web Content"
 ];
 
 export const PROJECTS_DATA: ProjectItem[] = [
