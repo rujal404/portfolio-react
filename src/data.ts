@@ -127,7 +127,7 @@ export const PROJECTS_DATA: ProjectItem[] = [
     subtitle: "Hotel Himalaya Website",
     category: "HOTEL",
     description: "Redefining wealth management through intuitive data visualization and strategic UX architecture.",
-    image: "https://rujaltamrakar.com.np/img/himalaya.png",
+    image: "https://github.com/rujal404/portfolio-website/blob/master/img/himalaya.png?raw=true",
     details: {
       client: "Hotel Himalaya",
       role: "Lead UX Architect & UI Designer",
@@ -148,7 +148,7 @@ export const PROJECTS_DATA: ProjectItem[] = [
     subtitle: "HealthTech Patient Platform",
     category: "HOTEL",
     description: "An end-to-end patient care system designed to streamline clinical workflows and improve outcomes.",
-    image: "https://lh3.googleusercontent.com/aida-public/AB6AXuCaxvrdAoHPfLGG560h2dOsGuady8_8uxQ8zXNDMnQon0bkYvLbLipniD1zFaydMngBBvTxh0gGuKCfYT3nw1q1WOD8hGh-kqwYiUPuJJo-tKuw1X9LZCoZipqhUIbtmFUi2Cv3F5jqdrCWtnlgvGHFgSWHwLvAfgJKG4zLXfwsBYpJl-ZmwiuaPu4wBX3RXI3QeXaKm-zE4PT9BA8DXkang1CYPsA_Qr41tlFOS1iiBmLejfli8zBpd2br3QXc5mB3D1qK8bmsJkE",
+    image: "https://github.com/rujal404/portfolio-website/blob/master/img/countryvilla.jpg?raw=true",
     details: {
       client: "Pulse Medical Holdings",
       role: "Lead Mobile Product Designer",
@@ -169,7 +169,7 @@ export const PROJECTS_DATA: ProjectItem[] = [
     subtitle: "Minimalist E-Commerce Platform",
     category: "COMMERCE",
     description: "A premium shopping experience for architectural furniture, focusing on high-conversion editorial layout.",
-    image: "https://lh3.googleusercontent.com/aida-public/AB6AXuDJ38WYOKYaplOc_QNpPdKSvDCV3GPjUQuIaLfCFDZ1-Vw8nIvYpQ0bRFaopfM0yw2nPaiQQE8Ziw-7fY05WaiJuEPfyJlgMyoIWbHZiy351foitKOA-97fm-ZOkZtiT3nbFZR6KQ4zISoHwHE3GyxWi8_FbNfSOu792njhXK1AN14DhNe5vqXCx0XE0o93D75K2QY8f-RSlx_6Nj9QfSoilQq2GBFiuM5nbkilVDxhm2EOGVk8-t4lRhM8FLXKxsnHiDPtv2NmTdg",
+    image: "https://github.com/rujal404/portfolio-website/blob/master/img/hotelgoodwill.jpg?raw=true",
     details: {
       client: "Luxe Furnishings Inc.",
       role: "Art Director & UX Designer",
@@ -211,7 +211,7 @@ export const PROJECTS_DATA: ProjectItem[] = [
     subtitle: "Minimalist E-Commerce Platform",
     category: "COMMERCE",
     description: "A premium shopping experience for architectural furniture, focusing on high-conversion editorial layout.",
-    image: "https://lh3.googleusercontent.com/aida-public/AB6AXuDJ38WYOKYaplOc_QNpPdKSvDCV3GPjUQuIaLfCFDZ1-Vw8nIvYpQ0bRFaopfM0yw2nPaiQQE8Ziw-7fY05WaiJuEPfyJlgMyoIWbHZiy351foitKOA-97fm-ZOkZtiT3nbFZR6KQ4zISoHwHE3GyxWi8_FbNfSOu792njhXK1AN14DhNe5vqXCx0XE0o93D75K2QY8f-RSlx_6Nj9QfSoilQq2GBFiuM5nbkilVDxhm2EOGVk8-t4lRhM8FLXKxsnHiDPtv2NmTdg",
+    image: "https://github.com/rujal404/portfolio-website/blob/master/img/babu%20metal%20crafts_web.png?raw=true",
     details: {
       client: "Luxe Furnishings Inc.",
       role: "Art Director & UX Designer",
