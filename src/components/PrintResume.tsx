@@ -141,12 +141,53 @@ export default function PrintResume({ onBack }: PrintResumeProps) {
         <h2 className="text-xs font-bold uppercase tracking-wider text-slate-400 mb-3 border-b border-slate-100 pb-1">Key Achievements & Projects</h2>
         <div className="space-y-3">
           <div>
-            <span className="text-xs font-semibold text-indigo-600 uppercase tracking-wide">Aether Finance</span>
-            <p className="text-xs text-slate-700">Redesigned the complex web trading cockpit, eliminating 35% visual noise and helping managers process real-time transaction markers 32% faster with absolute clarity.</p>
+            <span className="text-xs font-semibold text-indigo-600 uppercase tracking-wide">Lead UI/UX Designer</span>
+              <ul className="mt-1 list-disc pl-4 space-y-1 text-xs text-slate-700">
+                <li>Redesigned the complex web trading cockpit, eliminating 35% of visual noise and accelerating real-time transaction processing speed by 32% for portfolio managers.</li>
+                <li>Structured high-density data visualizations to ensure zero-latency clarity during high-volatility trading sessions.</li>
+              </ul>
           </div>
+
           <div>
-            <span className="text-xs font-semibold text-indigo-600 uppercase tracking-wide">Pulse Health</span>
-            <p className="text-xs text-slate-700">Collaboratively built a medical visual framework, creating 100% WCAG AA standard screens and lowering appointment booking dropout counters by 42%.</p>
+            <span className="text-xs font-semibold text-indigo-600 uppercase tracking-wide">E-Commerce & Hotel Web Platforms</span>
+              <ul className="mt-1 list-disc pl-4 space-y-1 text-xs text-slate-700">
+                <li>Hotel Websites Redesign (Hotel Himalaya, Hotel Country Villa, Hotel Goodwill, Hotel Ambassador, Elements Restaurant, Dawa Adventure)</li>
+              <ul className="mt-1 list-disc pl-4 space-y-1 text-xs text-slate-700">
+                <li>Update, redesigned and modernized inner page layouts using HTML, CSS, JavaScript, PHP, and Bootstrap.</li>
+                <li>Increased web traffic by 80%, boosted overall user engagement by 30%, and drove a 20% increase in direct bookings within the first month post-launch.</li>
+              </ul>
+              </ul>
+
+            <ul className="mt-1 list-disc pl-4 space-y-1 text-xs text-slate-700">
+              <li>Babu Metal Crafts & E-Commerce Applications</li>
+            <ul className="mt-1 list-disc pl-4 space-y-1 text-xs text-slate-700">
+              <li>Developed responsive web platforms for local businesses using PHP, MySQL, and WordPress to display products and streamline customer contacts.</li>
+              <li>Built admin dashboard workflows for resource, post, user management and custom payment gateway.</li>
+            </ul>
+            </ul>
+          </div>
+
+          <div>
+            <span className="text-xs font-semibold text-indigo-600 uppercase tracking-wide">Web Content Management & Digital Operations</span>
+              <ul className="mt-1 list-disc pl-4 space-y-1 text-xs text-slate-700">
+                <li>Giftmart And Other Hotel Platform Management</li>
+              <ul className="mt-1 list-disc pl-4 space-y-1 text-xs text-slate-700">
+                <li>Managed full-cycle product listings, content writing/optimization, and SEO across custom CMS platforms, WordPress, Yoast SEO and Meta data/keywords.</li>
+                <li>Handled complete content updates and digital operations for various hotel and store platforms.</li>
+                <li>Optimized image assets and web graphics via Photoshop and Canva to ensure fast page load speeds and consistent visual presentation.</li>
+              </ul>
+              </ul>
+          </div>
+
+          <div>
+            <span className="text-xs font-semibold text-indigo-600 uppercase tracking-wide">Hardware & Drone Technology</span>
+              <ul className="mt-1 list-disc pl-4 space-y-1 text-xs text-slate-700">
+                <li>Flite Tec — Custom FPV Drone Engineering</li>
+              <ul className="mt-1 list-disc pl-4 space-y-1 text-xs text-slate-700">
+                <li>Assembled and customized FPV drones based on client specifications using tools like Betaflight Configurator and STM32Programmer.</li>
+                <li>Conducted pilot assembly and flight training while executing technical aerial photography and videography.</li>
+              </ul>
+              </ul>
           </div>
         </div>
       </section>
