@@ -1,0 +1,6 @@
+{
+  "name": "Portfolio",
+  "description": "A high-fidelity minimalist portfolio for a senior designer, featuring professional timelines, project modals, print-ready resume designs, and a functional mock inquiries management panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
