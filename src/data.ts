@@ -190,7 +190,7 @@ export const PROJECTS_DATA: ProjectItem[] = [
     subtitle: "Minimalist E-Commerce Platform",
     category: "COMMERCE",
     description: "A premium shopping experience for architectural furniture, focusing on high-conversion editorial layout.",
-    image: "https://lh3.googleusercontent.com/aida-public/AB6AXuDJ38WYOKYaplOc_QNpPdKSvDCV3GPjUQuIaLfCFDZ1-Vw8nIvYpQ0bRFaopfM0yw2nPaiQQE8Ziw-7fY05WaiJuEPfyJlgMyoIWbHZiy351foitKOA-97fm-ZOkZtiT3nbFZR6KQ4zISoHwHE3GyxWi8_FbNfSOu792njhXK1AN14DhNe5vqXCx0XE0o93D75K2QY8f-RSlx_6Nj9QfSoilQq2GBFiuM5nbkilVDxhm2EOGVk8-t4lRhM8FLXKxsnHiDPtv2NmTdg",
+    image: "https://github.com/rujal404/portfolio-react/blob/master/src/img/baburajatamrakar.jpg?raw=true",
     details: {
       client: "Luxe Furnishings Inc.",
       role: "Art Director & UX Designer",
@@ -232,7 +232,7 @@ export const PROJECTS_DATA: ProjectItem[] = [
     subtitle: "Minimalist E-Commerce Platform",
     category: "COMMERCE",
     description: "A premium shopping experience for architectural furniture, focusing on high-conversion editorial layout.",
-    image: "https://lh3.googleusercontent.com/aida-public/AB6AXuDJ38WYOKYaplOc_QNpPdKSvDCV3GPjUQuIaLfCFDZ1-Vw8nIvYpQ0bRFaopfM0yw2nPaiQQE8Ziw-7fY05WaiJuEPfyJlgMyoIWbHZiy351foitKOA-97fm-ZOkZtiT3nbFZR6KQ4zISoHwHE3GyxWi8_FbNfSOu792njhXK1AN14DhNe5vqXCx0XE0o93D75K2QY8f-RSlx_6Nj9QfSoilQq2GBFiuM5nbkilVDxhm2EOGVk8-t4lRhM8FLXKxsnHiDPtv2NmTdg",
+    image: "https://github.com/rujal404/portfolio-react/blob/master/src/img/jatraclo.jpg?raw=true",
     details: {
       client: "Luxe Furnishings Inc.",
       role: "Art Director & UX Designer",
@@ -253,7 +253,7 @@ export const PROJECTS_DATA: ProjectItem[] = [
     subtitle: "Minimalist E-Commerce Platform",
     category: "COMMERCE",
     description: "A premium shopping experience for architectural furniture, focusing on high-conversion editorial layout.",
-    image: "https://lh3.googleusercontent.com/aida-public/AB6AXuDJ38WYOKYaplOc_QNpPdKSvDCV3GPjUQuIaLfCFDZ1-Vw8nIvYpQ0bRFaopfM0yw2nPaiQQE8Ziw-7fY05WaiJuEPfyJlgMyoIWbHZiy351foitKOA-97fm-ZOkZtiT3nbFZR6KQ4zISoHwHE3GyxWi8_FbNfSOu792njhXK1AN14DhNe5vqXCx0XE0o93D75K2QY8f-RSlx_6Nj9QfSoilQq2GBFiuM5nbkilVDxhm2EOGVk8-t4lRhM8FLXKxsnHiDPtv2NmTdg",
+    image: "https://github.com/rujal404/portfolio-react/blob/master/src/img/dhaabaja.jpg?raw=true",
     details: {
       client: "Chakrabarti Dhaa Baja Khala",
       role: "Art Director & UX Designer",
