@@ -8,7 +8,7 @@ export const PERSONAL_INFO = {
   location: "Patan, Lalitpur, Nepal (Remote Friendly)",
   bioLong: "I’m Rujal Tamrakar a frontend developer, designer, and creative artist focused on building modern, responsive, and user-centered digital experiences. From sleek portfolio websites to interactive web applications, I transform ideas into clean, functional, and visually engaging solutions.",
   bioExtra: "My approach combines creativity with performance, emphasizing intuitive interfaces, scalable design systems, and smooth user experiences. I believe great design is not only about aesthetics but also about usability, speed, and meaningful interaction that leaves a lasting impression.",
-  profileImage: "https://rujaltamrakar.com.np/img/me1.jpg",
+  profileImage: "https://github.com/rujal404/portfolio-website/blob/master/img/me.jpg",
 };
 
 export const EXPERIENCE_DATA: ExperienceItem[] = [
