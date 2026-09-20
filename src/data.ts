@@ -242,7 +242,7 @@ export const PROJECTS_DATA: ProjectItem[] = [
     }
   },
   {
-    id: "proj6",
+    id: "proj7",
     title: "Dhaa Baja",
     subtitle: "Minimalist E-Commerce Platform",
     category: "TRADITIONAL MUSIC",
@@ -263,23 +263,22 @@ export const PROJECTS_DATA: ProjectItem[] = [
     }
   },
   {
-    id: "proj6",
+    id: "proj8",
     title: "Vivanta Interiors",
     subtitle: "Minimalist E-Commerce Platform",
-    category: "TRADITIONAL MUSIC",
-    description: "Vivanta Interiors Design Studio creates stylish, functional, and personalized spaces through thoughtful design, quality craftsmanship, and modern aesthetics.
-",
-    image: "https://github.com/rujal404/portfolio-react/blob/master/src/img/vivanta.jpg?raw=true",
+    category: "Interior Design Studio",
+    description: "Vivanta Interiors Design Studio creates stylish, functional, and personalized spaces through thoughtful design, quality craftsmanship, and modern aesthetics",
+    image: "https://dhaabajaform.infy.click/img/vivanta.jpg",
     details: {
-      client: "Chakrabarti Dhaa Baja Khala",
+      client: "Vivanta Interiors Design Studio",
       role: "UX Design, Development & Web Contents",
       timeline: "4 Months (2026)",
-      challenge: "A premium designer boutique faced low digital conversion rates. Customers were reluctant to purchase high-ticket items online due to an uninspiring, flat grid shopping presentation that did not convey structural beauty and premium quality.",
-      solution: "Restructured the storefront into an editorial gallery format with full-bleed lifestyle photography, modular product configurations, immersive 3D viewing frames, and a super smooth multi-step cart transition.",
+      challenge: "A premium interior design studio faced low digital engagement and conversion rates, as potential clients were hesitant to explore its projects through an uninspiring, flat grid layout that failed to showcase the spaces’ architectural beauty, refined details, and premium craftsmanship.",
+      solution: "Restructured the studio’s portfolio into an editorial gallery experience with full-bleed interior photography, modular project layouts, immersive 3D visualizations, and seamless transitions that create a refined, engaging journey from inspiration to inquiry.",
       impact: [
-        "E-commerce conversion rates elevated by 3.4%.",
-        "Average basket value (AOV) grew by 45%.",
-        "Perfect performance on mobile devices with smart media caching pipelines."
+        "Project inquiries increased by 34%.",
+        "Average project value grew by 45%.",
+        "Mobile performance improved with optimized, fast-loading visual content."
       ],
       tags: ["React", "Webflow", "Portfolio", "Typography", "Art Direction"]
     }
