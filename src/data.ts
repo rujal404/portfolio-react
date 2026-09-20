@@ -110,7 +110,7 @@ export const EDUCATION_DATA: EducationItem[] = [
 export const SKILL_ITEMS: SkillItem[] = [
   { id: "sk1", name: "UI/UX Design", category: "design", iconName: "draw", proficiency: 90 },
   { id: "sk2", name: "Frontend Dev", category: "dev", iconName: "code", proficiency: 85 },
-  { id: "sk2", name: "Backend Dev", category: "dev", iconName: "code", proficiency: 35 },
+  { id: "sk2", name: "Backend Dev", category: "dev", iconName: "code", proficiency: 30 },
   { id: "sk3", name: "User Research", category: "research", iconName: "psychology", proficiency: 85 },
   { id: "sk4", name: "Design Systems", category: "systems", iconName: "layers", proficiency: 85 },
   { id: "sk5", name: "Web Content Creation", category: "web", iconName: "notebookpen", proficiency: 95 },
@@ -126,70 +126,64 @@ export const PROJECTS_DATA: ProjectItem[] = [
     title: "Hotel Himalaya",
     subtitle: "Hotel Himalaya Website",
     category: "HOTEL",
-    description: "Redefining wealth management through intuitive data visualization and strategic UX architecture.",
+    description: "Hotel Himalaya is an elegant, upscale hotel in Lalitpur set amidst landscaped gardens, offering comfortable accommodations with views of the Himalayas along with amenities like an outdoor pool, tennis courts, and fine dining.",
     image: "https://github.com/rujal404/portfolio-website/blob/master/img/himalaya.png?raw=true",
     details: {
       client: "Hotel Himalaya",
-      role: "Lead UX Architect & UI Designer",
-      timeline: "6 Months (2024)",
-      challenge: "Wealth managers faced extreme cognitive load when parsing real-time market indicators and asset allocations on legacy tables. The interface suffered from visual noise, poor information density, and low-performance charts.",
-      solution: "Designed a minimalist, highly responsive dashboard with dynamic workspace layouts, customizable data visualization configurations, and a robust design system optimized for high-intensity cognitive work.",
+      role: "Development & Web Contents",
+      timeline: "4 Months (2024)",
+      challenge: "The Hotel Himalaya website needed a complete redesign to improve user engagement and streamline the booking process.",
+      solution: "The redesign focused on creating a clean, modern interface with an intuitive booking system and responsive design.",
       impact: [
-        "Reduced average manager task-completion time by 32%.",
-        "Increased positive user feedback scores from 4.2 to 9.1 out of 10.",
-        "Created custom D3 visual widgets scaling efficiently to over 20,000 real-time data ticks per second."
+        "The redesigned website increased website visitors by 80%, boosted user engagement by 30%, and led to a 20% increase in bookings within the first month."
       ],
-      tags: ["Figma", "React.js", "D3.js", "Tailwind CSS", "Fintech"]
+      tags: ["Figma", "php", "React", "Tailwind CSS", "MySQL", "Cloudflare"]
     }
   },
   {
     id: "proj2",
     title: "Hotel Country Villa",
-    subtitle: "HealthTech Patient Platform",
+    subtitle: "Hotel Country Villa Website",
     category: "HOTEL",
-    description: "An end-to-end patient care system designed to streamline clinical workflows and improve outcomes.",
+    description: "Hotel Country Villa is a peaceful hilltop resort in Nagarkot offering panoramic views of the Himalayas, comfortable modern rooms, an Asian restaurant, and a meditation center.",
     image: "https://github.com/rujal404/portfolio-website/blob/master/img/countryvilla.jpg?raw=true",
     details: {
-      client: "Pulse Medical Holdings",
-      role: "Lead Mobile Product Designer",
-      timeline: "8 Months (2022)",
-      challenge: "Patients struggled to coordinate appointments, communicate with primary clinicians, and monitor medical metrics due to fragmented, confusing hospital applications. Medical errors frequently arose from misunderstood outpatient guidelines.",
-      solution: "Spearheaded design for a central Patient Care Hub with friendly cognitive visuals, clear text, medical history visualizers, secure messaging tunnels, and streamlined booking micro-flows.",
+      client: "Hotel Country Villa",
+      role: "Development & Web Contents",
+      timeline: "2 Months (2024)",
+      challenge: "The Hotel Country Villa website needed a complete redesign to improve user engagement and streamline the booking process.",
+      solution: "The redesign focused on creating a clean, modern interface with an intuitive booking system and responsive design.",
       impact: [
-        "42% drop in clinic call-center queues for appointment scheduling.",
-        "Increased outpatient protocol compliance rate by 28% locally.",
-        "Fully HIPAA/ADA WCAG 2.1 AAA accessible visual system."
+        "The redesigned website increased website visitors by 80%, boosted user engagement by 45%, and led to a 30% increase in bookings within the first month."
       ],
-      tags: ["Figma", "iOS & Android", "Design Systems", "Prototyping", "User Research"]
+      tags: ["Figma", "HTML", "CSS", "JavaScript", "php, MySQL"]
     }
   },
   {
     id: "proj3",
     title: "Hotel Goodwill",
     subtitle: "Minimalist E-Commerce Platform",
-    category: "COMMERCE",
-    description: "A premium shopping experience for architectural furniture, focusing on high-conversion editorial layout.",
+    category: "HOTEL",
+    description: "Hotel Goodwill is a traditional Newari-style hotel in Lalitpur offering casual rooms, an outdoor pool, an on-site restaurant and bar, and a peaceful courtyard setting near Patan Durbar Square.",
     image: "https://github.com/rujal404/portfolio-website/blob/master/img/hotelgoodwill.jpg?raw=true",
     details: {
-      client: "Luxe Furnishings Inc.",
-      role: "Art Director & UX Designer",
-      timeline: "4 Months (2023)",
-      challenge: "A premium designer boutique faced low digital conversion rates. Customers were reluctant to purchase high-ticket items online due to an uninspiring, flat grid shopping presentation that did not convey structural beauty and premium quality.",
-      solution: "Restructured the storefront into an editorial gallery format with full-bleed lifestyle photography, modular product configurations, immersive 3D viewing frames, and a super smooth multi-step cart transition.",
+      client: "Hotel Goodwill",
+      role: "Developement & Web Contents",
+      timeline: "2 Months (2024)",
+      challenge: "",
+      solution: "",
       impact: [
-        "E-commerce conversion rates elevated by 3.4%.",
-        "Average basket value (AOV) grew by 45%.",
-        "Perfect performance on mobile devices with smart media caching pipelines."
+        ""
       ],
-      tags: ["React", "Webflow", "Ecommerce", "Typography", "Art Direction"]
+      tags: ["Figma", "HTML", "CSS", "JavaScript", "php, MySQL"]
     }
   },
   {
     id: "proj4",
     title: "Babu Raja Tamrakar",
-    subtitle: "Minimalist E-Commerce Platform",
-    category: "COMMERCE",
-    description: "A premium shopping experience for architectural furniture, focusing on high-conversion editorial layout.",
+    subtitle: "Minimalist Personal Portfolio",
+    category: "Portfolio",
+    description: "Babu Raja Tamrakar is a master metal artisan based in Patan, Nepal, renowned for handcrafting traditional Nepalese metalwork, cast bronze sculptures, and custom brass art objects.",
     image: "https://github.com/rujal404/portfolio-react/blob/master/src/img/baburajatamrakar.jpg?raw=true",
     details: {
       client: "Luxe Furnishings Inc.",
@@ -209,13 +203,13 @@ export const PROJECTS_DATA: ProjectItem[] = [
     id: "proj5",
     title: "Babu Metal Crafts",
     subtitle: "Minimalist E-Commerce Platform",
-    category: "COMMERCE",
-    description: "A premium shopping experience for architectural furniture, focusing on high-conversion editorial layout.",
+    category: "E-COMMERCE",
+    description: "A premium shopping experience for handicraft products, focusing on .",
     image: "https://github.com/rujal404/portfolio-website/blob/master/img/babu%20metal%20crafts_web.png?raw=true",
     details: {
-      client: "Luxe Furnishings Inc.",
-      role: "Art Director & UX Designer",
-      timeline: "4 Months (2023)",
+      client: "Babu Metal Crafts",
+      role: "Design, Development & Web Contents",
+      timeline: "4 Months (2025)",
       challenge: "A premium designer boutique faced low digital conversion rates. Customers were reluctant to purchase high-ticket items online due to an uninspiring, flat grid shopping presentation that did not convey structural beauty and premium quality.",
       solution: "Restructured the storefront into an editorial gallery format with full-bleed lifestyle photography, modular product configurations, immersive 3D viewing frames, and a super smooth multi-step cart transition.",
       impact: [
@@ -230,7 +224,7 @@ export const PROJECTS_DATA: ProjectItem[] = [
     id: "proj6",
     title: "Jatra.CLO",
     subtitle: "Minimalist E-Commerce Platform",
-    category: "COMMERCE",
+    category: "E-COMMERCE",
     description: "A premium shopping experience for architectural furniture, focusing on high-conversion editorial layout.",
     image: "https://github.com/rujal404/portfolio-react/blob/master/src/img/jatraclo.jpg?raw=true",
     details: {
@@ -251,12 +245,12 @@ export const PROJECTS_DATA: ProjectItem[] = [
     id: "proj6",
     title: "Dhaa Baja",
     subtitle: "Minimalist E-Commerce Platform",
-    category: "COMMERCE",
+    category: "TRADITIONAL MUSIC",
     description: "A premium shopping experience for architectural furniture, focusing on high-conversion editorial layout.",
     image: "https://github.com/rujal404/portfolio-react/blob/master/src/img/dhaabaja.jpg?raw=true",
     details: {
       client: "Chakrabarti Dhaa Baja Khala",
-      role: "Art Director & UX Designer",
+      role: "UX Design, Development & Web Contents",
       timeline: "4 Months (2023)",
       challenge: "A premium designer boutique faced low digital conversion rates. Customers were reluctant to purchase high-ticket items online due to an uninspiring, flat grid shopping presentation that did not convey structural beauty and premium quality.",
       solution: "Restructured the storefront into an editorial gallery format with full-bleed lifestyle photography, modular product configurations, immersive 3D viewing frames, and a super smooth multi-step cart transition.",
@@ -266,6 +260,28 @@ export const PROJECTS_DATA: ProjectItem[] = [
         "Perfect performance on mobile devices with smart media caching pipelines."
       ],
       tags: ["React", "Webflow", "Ecommerce", "Typography", "Art Direction"]
+    }
+  },
+  {
+    id: "proj6",
+    title: "Vivanta Interiors",
+    subtitle: "Minimalist E-Commerce Platform",
+    category: "TRADITIONAL MUSIC",
+    description: "Vivanta Interiors Design Studio creates stylish, functional, and personalized spaces through thoughtful design, quality craftsmanship, and modern aesthetics.
+",
+    image: "https://github.com/rujal404/portfolio-react/blob/master/src/img/vivanta.jpg?raw=true",
+    details: {
+      client: "Chakrabarti Dhaa Baja Khala",
+      role: "UX Design, Development & Web Contents",
+      timeline: "4 Months (2026)",
+      challenge: "A premium designer boutique faced low digital conversion rates. Customers were reluctant to purchase high-ticket items online due to an uninspiring, flat grid shopping presentation that did not convey structural beauty and premium quality.",
+      solution: "Restructured the storefront into an editorial gallery format with full-bleed lifestyle photography, modular product configurations, immersive 3D viewing frames, and a super smooth multi-step cart transition.",
+      impact: [
+        "E-commerce conversion rates elevated by 3.4%.",
+        "Average basket value (AOV) grew by 45%.",
+        "Perfect performance on mobile devices with smart media caching pipelines."
+      ],
+      tags: ["React", "Webflow", "Portfolio", "Typography", "Art Direction"]
     }
   }
 ];
